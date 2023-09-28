@@ -1,5 +1,4 @@
 import requests
-from pprint import pprint
 import os
 
 # set the API key
